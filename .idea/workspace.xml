@@ -1,57 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-<<<<<<< HEAD
-    <list default="true" id="6ada6240-a8d1-44fd-9782-d6e5f90fc2b3" name="Changes" comment="" />
-=======
-    <list default="true" id="6ada6240-a8d1-44fd-9782-d6e5f90fc2b3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ru/dxcpp/mlj/Calculator.java" afterDir="false" />
+    <list default="true" id="6ada6240-a8d1-44fd-9782-d6e5f90fc2b3" name="Changes" comment="Add new class">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/dxcpp/mlj/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/dxcpp/mlj/Main.java" afterDir="false" />
     </list>
->>>>>>> 8c94f92 (Add new class)
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-<<<<<<< HEAD
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-=======
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="MarkdownSettingsMigration">
-    <option name="stateVersion" value="1" />
-  </component>
->>>>>>> 8c94f92 (Add new class)
   <component name="ProjectId" id="29bU5eCD6ZlvqDL2aauYnYcxyxb" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-<<<<<<< HEAD
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
-}]]></component>
-=======
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
-  }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ru.dxcpp.mlj.Main" />
@@ -72,7 +44,6 @@
       </list>
     </recent_temporary>
   </component>
->>>>>>> 8c94f92 (Add new class)
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -84,8 +55,6 @@
     </task>
     <servers />
   </component>
-<<<<<<< HEAD
-=======
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
@@ -97,5 +66,9 @@
       </map>
     </option>
   </component>
->>>>>>> 8c94f92 (Add new class)
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add new class" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add new class" />
+    <option name="GROUP_MULTIFILE_MERGE_BY_DIRECTORY" value="true" />
+  </component>
 </project>
